@@ -7,7 +7,7 @@ Documents
 
 1. [前后端开发约定](doc/前后端开发约定.md)
 2. [前端团队开发流程](doc/前端团队开发流程.md)
-
+2. [通用构建工具:gulp 入门指南](https://github.com/nimojs/gulp-book)
 
 
 License
